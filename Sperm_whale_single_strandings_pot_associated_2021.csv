@@ -1,0 +1,22 @@
+﻿Pot_ass,Date_,Month,Year,Coast,Season,Land,Island,No_Strand,Region,Lat,Long,Record_type,Cond_Animal,Sex,Length
+2,17/3/71,3,1971,Unknown,Autumn,Mainland,North,1,Auckland,Unknown,Unknown,Stranding,Unknown,Unknown,
+3,11/1/82,1,1982,West,Summer,Mainland,North,1,Auckland,-37.1968,174.7043,Stranding,Unknown,Unknown,
+8,30/11/04,11,2004,West,Spring,Mainland,North,1,Auckland,-37.023,174.4766,Beachcast,Freshly dead,Male,1584
+8,8/12/04,12,2004,West,Summer,Mainland,North,1,Auckland,-36.5228,174.195,Beachcast,Freshly dead,Male,1510
+4,13/2/88,2,1988,Island,Summer,Island,Chatham,1,Chatham Islands,-44.2675,183.7604,Stranding,Unknown,Male,1620
+4,17/2/88,2,1988,Island,Summer,Island,Chatham,1,Chatham Islands,-43.7085,183.4294,Beachcast,Decomposed,Unknown,
+5,11/3/88,3,1988,East,Autumn,Mainland,North,1,Hawkes Bay,-39.0552,177.5316,Stranding,Freshly dead,Male,1158
+5,15/3/88,3,1988,East,Autumn,Mainland,North,1,Hawkes Bay,-39.0975,177.2741,Stranding,Decomposed,Unknown,1158
+3,1/1/82,1,1982,West,Summer,Mainland,North,1,Northland,-35.7562,173.5533,Stranding,Unknown,Unknown,
+3,10/1/82,1,1982,West,Summer,Mainland,North,1,Northland,-35.1613,173.1528,Stranding,Decomposed,Unknown,1646
+6,23/9/94,9,1994,West,Spring,Mainland,North,1,Northland,-36.2431,173.983,Unknown,Decomposed,Unknown,1700
+6,3/10/94,10,1994,West,Spring,Mainland,North,1,Northland,-34.5981,172.8128,Unknown,Decomposed,Unknown,400
+9,2/12/04,12,2004,West,Summer,Mainland,North,1,Northland,-34.5003,172.6991,Beachcast,Decomposed,Unknown,2000
+9,3/12/04,12,2004,West,Summer,Mainland,North,1,Northland,-35.2323,173.1035,Beachcast,Freshly dead,Unknown,1200
+7,14/12/01,12,2001,West,Summer,Mainland,South,1,Southland,-44.452,167.8604,Beachcast,Decomposed,Unknown,
+7,15/12/01,12,2001,West,Summer,Mainland,South,1,Southland,-44.4961,167.8189,Beachcast,Decomposed,Unknown,2000
+10,20/1/13,1,2013,West,Summer,Mainland,North,1,Taranaki,-39.7662,174.4768,Beachcast,Decomposed,Unknown,1200
+2,22/3/71,3,1971,West,Autumn,Mainland,North,1,Wellington,-41.3593,174.8478,Stranding,Unknown,Male,419
+10,16/1/13,1,2013,West,Summer,Mainland,North,1,Wellington,-40.8901,174.9797,Beachcast,Freshly dead,Unknown,1500
+1,1/6/54,6,1954,West,Winter,Mainland,North,1,Wellington,-40.7929,175.0811,Stranding,Unknown,Male,
+1,1/6/54,6,1954,West,Winter,Mainland,North,1,Wellington,-40.7929,175.0811,Stranding,Unknown,Female,

@@ -1,0 +1,25 @@
+Date_,Month,Year,Type ,Land,Coast,Season,Island,No_Strand,Region,Lat,Long,Record_type,Incident_type,Cond_Animal,Sex
+26/5/72,5,1972,Bachelor,Island,Island,Autumn,North,31,Auckland,-36.2607,175.4269,Live Stranding,Stranding,Live,Male
+4/7/58,7,1958,Matriline,Mainland,West,Winter,North,13,Auckland,-36.7344,174.3641,Unknown,Stranding,Unknown,Female
+29/10/74,10,1974,Matriline,Mainland,West,Spring,North,72,Auckland,-36.6221,174.2787,Live Stranding,Stranding,Live,Both
+15/11/03,11,2003,Bachelor,Mainland,West,Spring,North,12,Auckland,-37.0464,174.5063,Live Stranding,Stranding,Freshly dead,Male
+1/1/62,1,1962,unknown,Island,Island,Summer,Chatham,11,Chatham Islands,-43.7574,-176.2406,Unknown,Stranding,Unknown,unknown
+1/1/70,1,1970,unknown,Island,Island,Summer,Chatham,2,Chatham Islands,-43.8368,-176.8447,Unknown,Stranding,Unknown,unknown
+24/3/00,3,2000,Matriline,Island,Island,Autumn,Chatham,20,Chatham Islands,-43.8142,-176.7092,Beach cast,Death Report,Freshly dead,Female
+15/8/85,8,1985,Bachelor,Island,Island,Winter,Chatham,2,Chatham Islands,-43.7516,-176.2344,Live Stranding,Stranding,Live,Male
+18/3/70,3,1970,Matriline,Mainland,East,Autumn,North,59,Gisborne,-38.6873,178.0745,Deliberately Killed,Stranding,Live,Female
+25/9/96,9,1996,Bachelor,Mainland,East,Spring,North,2,Hawkes Bay,-39.0816,177.3337,Beach cast,Death Report,Freshly dead,Male
+26/11/72,11,1972,unknown,Mainland,East,Spring,North,2,Hawkes Bay,-39.0769,177.8713,Unknown,Stranding,Unknown,unknown
+1/1/1895,1,1895,Matriline,Mainland,West,Summer,North,27,Northland,-36.3792,174.2289,Unknown,Stranding,Unknown,Both
+11/3/18,3,1918,Matriline,Mainland,West,Autumn,North,25,Northland,-35.9655,173.7517,Unknown,Stranding,Unknown,Both
+8/3/21,3,2021,Bachelor,Mainland,West,Autumn,North,3,Northland,-35.962289,173.751113,LIve Stranding,Unknown,Unknown,Male
+21/6/72,6,1972,Bachelor,Mainland,West,Winter,North,15,Northland,-36.3791,174.229,Live Stranding,Stranding,Live,Male
+21/10/02,10,2002,unknown,Island,Island,Spring,Raoul,2,Raoul Island,-29.2704,-177.9424,Beach cast,Death Report,Decomposed,unknown
+25-28/5/2018 & 9/6/2018,5,2018,Bachelor,Mainland,West,Autumn,North,13,Taranaki,-39.5705,174.0637,Beach cast,Death Report,Freshly dead,Male
+15/8/88,8,1988,Bachelor,Mainland,West,Winter,North,3,Taranaki,-39.5093,173.9064,Unknown,Stranding,Freshly dead,Male
+24/2/97,2,1997,unknown,Mainland,West,Summer,South,5,Tasman,-40.5508,172.7215,Live Stranding,Stranding,Live,unknown
+26/9/70,9,1970,Bachelor,Mainland,West,Spring,South,7,Tasman,-40.5238,172.9057,Live Stranding,Stranding,Live,Male
+22/11/14,11,2014,Bachelor,Mainland,West,Spring,South,3,Tasman,-40.8272,172.8427,Beach cast,Death Report,Freshly dead,Male
+22/11/92,11,1992,Bachelor,Mainland,West,Spring,South,2,Tasman,-40.5238,172.9057,Unknown,Stranding,Freshly dead,Male
+17/3/96,3,1996,Bachelor,Mainland,West,Autumn,North,3,Wellington,-40.9695,174.9614,Live Stranding,Stranding,Live,Male
+15/8/85,8,1985,Bachelor,Mainland,East,Winter,North,6,Wellington,-41.6113,175.2854,Beach cast,Death Report,Freshly dead,Male
